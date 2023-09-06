@@ -80,3 +80,6 @@ Finally install one MySQL visual tool, [workbench](https://dev.mysql.com/downloa
 <img src="assets\095f5d4903a4175bbc02370755eecbb.png" alt="095f5d4903a4175bbc02370755eecbb" style="zoom:67%;" />
 
 <img src="assets\df39a27cdcf3cb23f36da55de5046a0.png" alt="df39a27cdcf3cb23f36da55de5046a0" style="zoom: 67%;" />
+
+#ER-Diagram
+![797c2003181e9fed9f6e5edf9bceb5c](assets\797c2003181e9fed9f6e5edf9bceb5c.png)
